@@ -1,7 +1,7 @@
 Hi 👋 My name is Chattawat Riyong
 =================================
 
-B. Sc. Student in Information and Communication Technology @Mahidol University, Nakhon Pathom, Thailand.
+B. Sc. Student in Information and Communication Technology, Database Track @Mahidol University, Nakhon Pathom, Thailand.
 
 * 🌍  I'm based in Chiang Mai, Thailand
 * 🧠  I'm learning Cyber Security
